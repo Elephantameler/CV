@@ -1,2 +1,1 @@
-# CV
-It's a simple CV demo.
+随便传一些东西
